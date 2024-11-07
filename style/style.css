@@ -7,7 +7,6 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
-  /*margin: 3%;*/
 }
 
 nav ul {
@@ -375,6 +374,7 @@ margin-left: 27%;
 .box1 img {
   width: 11%;
 }
+
 .box2 img {
   width: 13%;
 }

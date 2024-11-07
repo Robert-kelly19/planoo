@@ -1,0 +1,434 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  width: 100%;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 3%;
+}
+
+nav ul {
+  display: none;
+}
+
+nav img {
+  width: 25%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.sec1 {
+  background-color: #fe8d27;
+  border-radius: 2.5%;
+}
+
+.part1 h3 {
+  text-align: center;
+  font-size: 265%;
+  color: lightgray;
+  padding-top: 10%;
+  font-weight: 200;
+}
+
+.sup {
+  color: white;
+}
+
+form {
+  display: grid;
+  width: 36%;
+  margin-left: 30%;
+}
+
+form button {
+  background-color: #000;
+  color: white;
+  border-radius: 5%;
+  border: solid #000 1px;
+  margin-top: 1%;
+}
+
+.part1 p {
+  color: white;
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.sec2 h1 {
+  text-align: center;
+  font-family: segeo ui-monospace;
+  padding-top: 60px;
+}
+
+.sec2-1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.before {
+  border: solid #f5f5f5 1px;
+  background-color: #f5f5f5;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 10%;
+}
+
+.after {
+  border: solid #f5f5f5 1px;
+  background-color: #f5f5f5;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.form-group1 {
+  background-color: white;
+  width: 90%;
+  margin-bottom: 3px;
+  text-align: left;
+  margin-left: 5%;
+  height: 20px;
+  border-radius: 5px;
+  padding-left: 6px;
+  margin-top: 12%;
+}
+
+.form-group2 {
+  background-color: white;
+  width: 90%;
+  margin-bottom: 3px;
+  text-align: left;
+  margin-left: 5%;
+  height: 20px;
+  border-radius: 5px;
+  padding-left: 6px;
+}
+
+.form-group3 {
+  background-color: white;
+  width: 90%;
+  margin-bottom: 3px;
+  text-align: left;
+  margin-left: 5%;
+  height: 20px;
+  border-radius: 5px;
+  padding-left: 6px;
+}
+
+.form-group4 {
+  background-color: white;
+  width: 90%;
+  margin-bottom: 3px;
+  text-align: left;
+  margin-left: 5%;
+  height: 20px;
+  border-radius: 5px;
+  padding-left: 6px;
+}
+
+.form-group5 {
+  background-color: white;
+  width: 90%;
+  margin-bottom: 3px;
+  text-align: left;
+  margin-left: 5%;
+  height: 20px;
+  border-radius: 5px;
+  padding-left: 6px;
+}
+
+.before h3 {
+  background-color: green;
+  border-radius: 33%;
+  width: 26%;
+  height: 26px;
+  text-align: center;
+  margin-left: 35%;
+  color: white;
+}
+
+.before p {
+  text-align: center;
+  font-size: small;
+}
+
+.day {
+  display: flex;
+  flex-direction: column;
+}
+
+.day10-1 {
+  background-color: white;
+  margin-left: -3%;
+  color: lightgray;
+  border-radius: 5%;
+  font-weight: lighter;
+  width: 60%;
+  text-decoration: line-through;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+
+.day10-2 {
+  background-color: white;
+  margin-left: -3%;
+  border-radius: 5%;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 5%;
+}
+
+.day10-2 h4 {
+  width: 40%;
+height: 20px;
+background-color: lightskyblue;
+color: white;
+border-radius: 20%;
+margin-left: 27%;
+}
+
+.day10-3 {
+  background-color: white;
+  margin-left: -3%;
+  border-radius: 5%;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.day10-3 h4 {
+  width: 40%;
+height: 20px;
+background-color: lightgrey;
+color: white;
+border-radius: 20%;
+margin-left: 27%;
+}
+
+.after h6 {
+  background-color: #fe8d27;
+  border-radius: 33%;
+  width: 28%;
+  height: 36px;
+  text-align: center;
+  margin-left: 35%;
+  font-size: x-large;
+  color: white;
+}
+
+.after p {
+  text-align: center;
+  font-size: small;
+}
+
+.sec3-1 {
+  background-color: #fff101;
+  border-radius: 5%;
+  width: 95%;
+  margin-left: 8px
+}
+
+.sec3 h1 {
+  font-size: x-large;
+  text-align: center;
+  font-family: ui-monospace;
+  font-weight: 100;
+  margin-top: 10%;
+}
+
+.sec3-1-1 {
+  font-size: large;
+  text-align: left;
+  margin-left: 3%;
+  padding-top: 5%;
+}
+
+.sec3-2 img {
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: -5px;
+  border-top-right-radius: 10%;
+  border-top-left-radius: 10%;
+}
+
+.sec3-1-1 p {
+  font-size: small;
+}
+
+.sec3-3{
+  background-color: #fe8d27;
+  border-radius: 5%;
+  width: 95%;
+  margin-left: 8px
+}
+
+.emoji {
+  background-color: #fff20162;
+  border-radius: 50%;
+}
+
+.sec3-3-1 p{
+  font-size: small;
+  text-align: center;
+  color: white;
+}
+
+.sec3-3-1 h1 {
+  font-size: xx-large;
+  text-align: center;
+  font-family: ui-monospace;
+  font-weight: 100;
+  color: white;
+  margin-top: 10%;
+  padding-top: 21px;
+}
+
+.sec3-3-2{
+  background-color: #eebcf4;
+  border-radius: 5%;
+  width: 95%;
+  margin-left: 8px
+}
+
+.sec3-3-2 p{
+  font-size: small;
+  text-align: center;
+  color: white;
+}
+
+.sec3-3-2 h1 {
+  font-size: x-large;
+  text-align: center;
+  font-family: ui-monospace;
+  font-weight: 100;
+  color: white;
+  margin-top: 10%;
+  padding-top: 21px;
+}
+
+.side {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.chan {
+  background-color: white;
+  width: 80%;
+  border-radius: 15%;
+  margin-left: 13%;
+  margin-bottom: 10px;
+}
+
+.add {
+  background-color: white;
+  width: 80%;
+  border-radius: 15%;
+  margin-left: 13%;
+  margin-bottom: 10px;
+}
+
+.move {
+  background-color: white;
+  width: 80%;
+  border-radius: 15%;
+  margin-left: 13%;
+  margin-bottom: 10px;
+}
+
+.sec4 {
+  background-color: gray;
+  margin-top: 10%;
+}
+
+.box1 img {
+  width: 11%;
+}
+.box2 img {
+  width: 13%;
+}
+
+.box3 img {
+  width: 13%;
+}
+
+.box4 img {
+  width: 11%;
+}
+
+.box5 img {
+  width: 11%;
+}
+
+.box6 img {
+  width: 11%;
+}
+
+.sec4 h3 {
+  text-align: center;
+  font-size: medium;
+  font-weight: 100;
+}
+
+.sec4 h1 {
+  text-align: center;
+  font-size: medium;
+  font-weight: 100;
+}
+
+.sec4 p {
+  text-align: left;
+  font-size: small;
+  padding-bottom: 14px;
+  margin-left: 2%;
+  margin-top: -21px;
+}
+
+.box1 {
+  background-color: white;
+  width: 90%;
+  border-radius: 5%;
+  margin-left: 5%;
+}
+
+.box2 {
+  background-color: white;
+  width: 90%;
+  border-radius: 5%;
+  margin-left: 5%;
+}
+
+.box3 {
+  background-color: white;
+  width: 90%;
+  border-radius: 5%;
+  margin-left: 5%;
+}
+
+.box4 {
+  background-color: white;
+  width: 90%;
+  border-radius: 5%;
+  margin-left: 5%;
+}
+
+.box5 {
+  background-color: white;
+  width: 90%;
+  border-radius: 5%;
+  margin-left: 5%;
+}
+
+.box6 {
+  background-color: white;
+  width: 90%;
+  border-radius: 5%;
+  margin-left: 5%;
+}

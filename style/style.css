@@ -560,6 +560,7 @@ form button {
   font-weight: 600;
   padding-bottom: 6px;
   border-bottom: solid grey 1px;
+  margin-left: 3%;
 }
 
 .plus {
